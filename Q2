@@ -1,0 +1,12 @@
+#Ana Karen Zazueta Pimentel
+#A01630485
+def find_threes(x):
+	su= 0+y
+	for x in (x):
+		if ((x%3)==0):
+			y+y+x
+	return(y)
+L=[9,3,8,12,17,7,27,4,11,15]
+ans= find_threes(L)
+print("The list of numbers is: ", L)
+print("The sum of the numbers that are multiple of 3 is: ", ans)
