@@ -1,0 +1,12 @@
+#Ana Karen Zazueta Pimentel
+#A01630485
+def tri(tam):
+	for r in range(1,tam+1):
+		for c in range(1,r+1):
+			print("T", end="")
+		print()
+	for r in range(tam-1,0,-1):
+		for c in range(1,r+1):
+			print("T", end="")
+		print()
+tri(6)
